@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More change with new job...
-image: /img/hello_world.jpeg
+image: /img/mini_octocat.jpg
 tags: [random, exciting-stuff]
 ---
 
