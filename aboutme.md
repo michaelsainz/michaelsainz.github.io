@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Or...another reason for me to talk about myself!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Oh hi! Nobody reads these here, but I'm glad that you stopped by! Here are a few things you might be interested in...
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- I'm a former IT Professional turned Developer (technically Systems Developer). Yes, I can read the tea leaves and see where the tech sector is heading. I only wish some of my collegues could as well.
+- I'm a technology/DevOps evangelist. And I'm super passionate about it. I currently work as a DevOps engineer for [Tableau](https://www.tableau.com).
+- I'm a former career consultant. I've had the privelege of seeing some rather interesting solutions and technology implementations. I have a pretty good sense of what can/should work and what won't.
+- I'm a family guy... wife with two daughters that I absolutely adore.
+- I love PowerShell.
